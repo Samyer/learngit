@@ -10,4 +10,9 @@ Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> featurel
+<<<<<<< HEAD
 Creating B new branch is quick and simple.
+=======
+Creating A new branch is quick and simple.
+>>>>>>> featuel
+
