@@ -5,4 +5,4 @@ Git is a free software under the GPL.
 Git is a very great tool.
 Git tracks changes of file.
 Compare.
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
