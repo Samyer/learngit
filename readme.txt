@@ -7,3 +7,4 @@ Git tracks changes of file.
 Compare.
 Creating a new branch is quick and simple.
 learngit
+clonegit
